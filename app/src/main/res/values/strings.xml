@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tablayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="google_map_api_key">AIzaSyDE7J2orOTbdv2rRbZWRdL7qdzoAELfwss</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
